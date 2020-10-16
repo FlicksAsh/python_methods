@@ -45,3 +45,7 @@ tags = ['python', 'coding', 'tutorial']
 post += (tags,)
 
 print(post[-1][1])
+
+post = ('Python Basics', 'Intro guide to Python', 'Some cool python content', 'published')
+
+print(post[1::2])
