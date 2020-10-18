@@ -13,3 +13,4 @@ def some_function(collection = []):
 
 print(some_function())
 print(some_function())
+
